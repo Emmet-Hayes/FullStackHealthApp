@@ -1,10 +1,10 @@
-﻿using FullStackApp.Server.Data;
-using FullStackApp.Server.Models;
+﻿using ReactAppASPMedical.Server.Data;
+using ReactAppASPMedical.Server.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 
-namespace FullStackApp.Server.Controllers
+namespace ReactAppASPMedical.Server.Controllers
 {
     [ApiController]
     [Route("/patients")]

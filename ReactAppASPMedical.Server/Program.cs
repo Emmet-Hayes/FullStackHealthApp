@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using FullStackApp.Server.Data;
+using ReactAppASPMedical.Server.Data;
 
 
 var builder = WebApplication.CreateBuilder(args);

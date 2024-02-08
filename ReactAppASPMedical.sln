@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactAppASPMedical.Server", "ReactAppASPMedical.Server\ReactAppASPMedical.Server.csproj", "{475F7942-AEEF-4923-820A-5BDBAAAAC68B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReactAppASPMedical.Server", "ReactAppASPMedical.Server\ReactAppASPMedical.Server.csproj", "{475F7942-AEEF-4923-820A-5BDBAAAAC68B}"
 EndProject
 Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "reactappaspmedical.client", "reactappaspmedical.client\reactappaspmedical.client.esproj", "{12D94DAA-746E-435C-9277-9AB7433ECE38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactAppASPMedical.Tests", "ReactAppASPMedical.Tests\ReactAppASPMedical.Tests.csproj", "{2F9DB0BD-96E6-4A9A-905D-986A53711D9E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +25,10 @@ Global
 		{12D94DAA-746E-435C-9277-9AB7433ECE38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12D94DAA-746E-435C-9277-9AB7433ECE38}.Release|Any CPU.Build.0 = Release|Any CPU
 		{12D94DAA-746E-435C-9277-9AB7433ECE38}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{2F9DB0BD-96E6-4A9A-905D-986A53711D9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F9DB0BD-96E6-4A9A-905D-986A53711D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F9DB0BD-96E6-4A9A-905D-986A53711D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F9DB0BD-96E6-4A9A-905D-986A53711D9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

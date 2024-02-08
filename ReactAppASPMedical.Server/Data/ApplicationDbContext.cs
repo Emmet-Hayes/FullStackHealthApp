@@ -1,9 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using FullStackApp.Server.Models;
-using System.Collections.Generic;
+using ReactAppASPMedical.Server.Models;
 
 
-namespace FullStackApp.Server.Data
+namespace ReactAppASPMedical.Server.Data
 {
     public class ApplicationDbContext : DbContext
     {

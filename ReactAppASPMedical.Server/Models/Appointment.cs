@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations.Schema;
 
 
-namespace FullStackApp.Server.Models
+namespace ReactAppASPMedical.Server.Models
 {
     [Table("appointments")]
     public class Appointment

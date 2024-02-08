@@ -38,3 +38,4 @@ C:\Users\gelli\source\repos\ReactAppASPMedical\ReactAppASPMedical.Server\bin\Deb
 C:\Users\gelli\source\repos\ReactAppASPMedical\ReactAppASPMedical.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\gelli\source\repos\ReactAppASPMedical\ReactAppASPMedical.Server\bin\Debug\net8.0\Npgsql.dll
 C:\Users\gelli\source\repos\ReactAppASPMedical\ReactAppASPMedical.Server\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\gelli\source\repos\ReactAppASPMedical\ReactAppASPMedical.Server\obj\Debug\net8.0\ReactAppASPMedical.Server.sourcelink.json

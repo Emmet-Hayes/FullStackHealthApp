@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReactAppASPMedical.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76b7bb81ec936e8725866bdb6eec555461f4417c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReactAppASPMedical.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReactAppASPMedical.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
