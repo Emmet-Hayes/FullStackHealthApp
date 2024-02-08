@@ -1,0 +1,97 @@
+﻿#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+tr:nth-child(even) {
+    background: #F2F2F2;
+}
+
+tr:nth-child(odd) {
+    background: #FFF;
+}
+
+th, td {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.patient-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.patient-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    width: 300px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.patient-section {
+    margin-bottom: 20px;
+}
+
+    .patient-section div {
+        margin-bottom: 10px;
+    }
+
+.appointment-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.appointment-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    width: 300px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.appointment-section {
+    margin-bottom: 20px;
+}
+
+    .appointment-section div {
+        margin-bottom: 10px;
+    }
+
+nav {
+    background-color: #f8f9fa; /* Light grey background */
+    border-bottom: 1px solid #e0e0e0; /* Light grey border */
+    padding: 0.5rem 1rem; /* Padding around the nav bar */
+}
+
+    nav ul {
+        list-style-type: none; /* Remove bullet points from list items */
+        margin: 0; /* Remove default margin */
+        padding: 0; /* Remove default padding */
+        display: flex; /* Display list items in a row */
+        justify-content: center; /* Center list items horizontally */
+    }
+
+        nav ul li {
+            margin-right: 1rem; /* Margin between list items */
+        }
+
+            nav ul li:last-child {
+                margin-right: 0; /* Remove margin for the last list item */
+            }
+
+    nav a {
+        text-decoration: none; /* Remove underline from links */
+        color: #007bff; /* Bootstrap primary blue for link color */
+        font-weight: bold; /* Make the text bold */
+    }
+
+        nav a:hover {
+            color: #0056b3; /* Darker blue color on hover */
+        }
